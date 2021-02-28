@@ -11,10 +11,12 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 - How is the district summary affected?
 
-The district summary prior to the change had the following results:
+    The district summary prior to the change had the following results:
 
-Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-15		        39,170		    $24,649,428.00	79.0			    81.9			        75		        86			        65
+
+Total Schools |	Total Students |	Total Budget	| Average Math Score |	Average Reading Score |	% Passing Math	| % Passing Reading |	% Overall Passing
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+15		      |  39,170		   |  $24,649,428.00	| 79.0			     |  81.9			      |  75		        |  86			     |   65
 
 Following the change, the results were:
 
