@@ -6,17 +6,23 @@ In the initial part of the analysis, the purpose was to provide insights about s
 
 In the second part (the challenge) the original analysis was modified after discovering that a subset of the students grades have been altered. Specifically the math and reading grades for Thomas High School 9th graders. In the new analysis, these grades were eliminated while the rest of the data remained intact. This report describes how eliminating these grades impacts the overall analysis. 
 
+## Link to Complete Code
+![PyPoll_Challenge.py](PyPoll_Challenge.py)
+
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.
 
 - How is the district summary affected?
 
-    The district summary prior to the change had the following results:
+  The district summary prior to the change had the following results:
 
+### Image of School District Analysis
+![school_district_df.png](Resources/school_district_df.png)
 
-Total Schools |	Total Students |	Total Budget	| Average Math Score |	Average Reading Score |	% Passing Math	| % Passing Reading |	% Overall Passing
---------------+----------------+--------------------+--------------------+------------------------+-----------------+--------------------+--------------------
-15		      |  39,170		   |  $24,649,428.00	| 79.0			     |  81.9			      |  75		        |  86			     |   65
+### Image of School District Analysis Refactored
+![school_district_df_refactored.png](Resources/school_district_df_refactored.png)
+
+	    
 
 Following the change, the results were:
 
